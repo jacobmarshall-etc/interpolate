@@ -1,11 +1,11 @@
 {
   "name": "@jacobmarshall/interpolate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A very simple, basic, and dumb string interpolation utility",
   "author": "Jacob Marshall <git@jacobmarshall.co>",
   "main": "index.js",
   "files": [
-  	"index.js"
+    "index.js"
   ],
   "publishConfig": {
     "access": "public"
